@@ -1,0 +1,12 @@
+.thumbnail-div {
+    width: 50%;
+}
+
+img {
+    height: 200px;
+    width: 135px;
+}
+
+.thumbnail-div img:hover {
+    cursor: pointer;
+}
